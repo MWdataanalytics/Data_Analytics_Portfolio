@@ -1,6 +1,7 @@
 # Data Analytics Portfolio by Matt Winkler
 This portfolio is a compilation a jupyter notebooks, written in python, that involves various data analytics subject areas, including:
-* Exploratory Data Analysis/Visualization
+* Exploratory Data Analysis
+* Data Visualization
 * Data Cleaning
 * Web Scraping
 ### Exploring Election Data
