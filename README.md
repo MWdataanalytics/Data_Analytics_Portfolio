@@ -10,7 +10,7 @@ This portfolio is a compilation a jupyter notebooks, written in python, that inv
 This project explores presidential election data, focusing on state vote margin shifts between the 2012 and 2016 elections, and the main factors that contributed to these shifts. Data is pulled from many different sources using BeautifulSoup for web scraping and visualized using matplotlib and seaborn.
 
 ### Plotting Virginia Tech Starting Salaries
-<img src="https://i.imgur.com/QAeulNu.png" width="100" height="100" alt="sample_1">
+<img src="https://i.imgur.com/QAeulNu.png" width="200" height="150" alt="sample_1">
 <a href="http://nbviewer.jupyter.org/github/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Notebooks/Plotting_Virginia_Tech_Starting_Salaries.ipynb">nbviewer</a> <a href="https://github.com/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Notebooks/Plotting_Virginia_Tech_Starting_Salaries.ipynb">GitHub</a>
 
 This project explores starting salary data from my alma mater, Virginia Tech. BeatifulSoup is used for web scraping Virginia Tech post-graduate reports and national starting salary data spanning the years 2005-2017 while matplotlib is used to visualize these trends. 
