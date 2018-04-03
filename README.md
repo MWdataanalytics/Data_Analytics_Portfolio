@@ -4,7 +4,7 @@ This portfolio is a compilation a jupyter notebooks, written in python, that inv
 * Data Visualization
 * Data Cleaning
 * Web Scraping
-### Exploring Election Data
+<h2>Exploring Election Data</h2>
 <a href="https://nbviewer.jupyter.org/github/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Notebooks/Exploring_Election_Data.ipynb">nbviewer</a> <a href="https://github.com/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Notebooks/Exploring_Election_Data.ipynb">GitHub</a>
 
 This project explores presidential election data, focusing on state vote margin shifts between the 2012 and 2016 elections, and the main factors that contributed to these shifts. Data is pulled from many different sources using BeautifulSoup for web scraping and visualized using matplotlib and seaborn.
