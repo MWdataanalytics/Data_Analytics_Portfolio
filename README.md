@@ -16,7 +16,7 @@ This project explores presidential election data, focusing on state vote margin 
 
 This project explores starting salary data from my alma mater, Virginia Tech. BeatifulSoup is used for web scraping Virginia Tech post-graduate reports and national starting salary data spanning the years 2005-2017 while matplotlib is used to visualize these trends. 
 
-<a href="http://nbviewer.jupyter.org/github/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Notebooks/Plotting_Virginia_Tech_Starting_Salaries.ipynb">nbviewer</a> <a href="https://github.com/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Notebooks/Plotting_Virginia_Tech_Starting_Salaries.ipynb">GitHub</a>
+<a href="http://nbviewer.jupyter.org/github/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Notebooks/Plotting_Virginia_Tech_Starting_Salaries.ipynb">nbviewer</a> <h2><a href="https://github.com/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Notebooks/Plotting_Virginia_Tech_Starting_Salaries.ipynb">GitHub</a></h2>
 
 ### Visualizing World Alcohol Consumption. 
 <a href="http://nbviewer.jupyter.org/github/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Notebooks/World_Alcohol_Consumption.ipynb">nbviewer</a> <a href="https://github.com/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Notebooks/World_Alcohol_Consumption.ipynb">GitHub</a>
