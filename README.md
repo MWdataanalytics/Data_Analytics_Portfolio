@@ -19,7 +19,7 @@ This project explores presidential election data, focusing mainly on state vote 
 
 <h2><a href="https://nbviewer.jupyter.org/github/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Data%20Projects/VT%20Post-Grad%20Reports/Virginia_Tech_Post-Graduation_Reports.ipynb">Virginia Tech Post-Graduate Reports</a></h2>
 
-<img src="https://github.com/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Data%20Projects/VT%20Post-Grad%20Reports/Sample%20Images/VT_3.png" width="230" height="180" alt="sample_1">   <img src="https://github.com/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Data%20Projects/VT%20Post-Grad%20Reports/Sample%20Images/VT_1.png" width="250" height="175" alt="sample_2">   <img src="https://github.com/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Data%20Projects/VT%20Post-Grad%20Reports/Sample%20Images/VT_2.png" width="230" height="180" alt="sample_3">
+<img src="https://github.com/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Data%20Projects/VT%20Post-Grad%20Reports/Sample%20Images/VT_3.png" width="230" height="180" alt="sample_1">   <img src="https://github.com/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Data%20Projects/VT%20Post-Grad%20Reports/Sample%20Images/VT_4.png" width="250" height="175" alt="sample_2">   <img src="https://github.com/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Data%20Projects/VT%20Post-Grad%20Reports/Sample%20Images/VT_2.png" width="230" height="180" alt="sample_3">
 
 
 This project explores starting salary data from my alma mater, Virginia Tech. BeatifulSoup is used for web scraping Virginia Tech post-graduate reports and national starting salary data spanning the years 2005-2017 while matplotlib is used to visualize these trends. 
