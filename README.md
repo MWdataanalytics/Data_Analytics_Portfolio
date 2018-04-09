@@ -26,7 +26,7 @@ Building upon my <i>State Vote Shifts in Recent Presidential Elections</i> proje
 Web scraping is used to gather post-graduate reports spanning the years 2004-2017 from my alma mater, Virginia Tech. This data, which includes number of grads, employment rate, and starting salaries, is visualized to compare majors and uncover starting salary trends.
 
 
-<h2><a href="https://nbviewer.jupyter.org/github/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Data%20Projects/World%20Alcohol%20Consumption/World_Alcohol_Consumption.ipynb">World Alcohol Consumption</a></h2>
+<h2><a href="http://nbviewer.jupyter.org/github/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Data%20Projects/World%20Alcohol%20Consumption/World_Alcohol.ipynb">World Alcohol Consumption</a></h2>
 
 <img src="https://github.com/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Data%20Projects/World%20Alcohol%20Consumption/Sample%20Images/World_1.png" width="250" height="180" alt="sample_1">   <img src="https://github.com/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Data%20Projects/World%20Alcohol%20Consumption/Sample%20Images/World_2.png" width="235" height="180" alt="sample_2" hspace="3">   <img src="https://github.com/MWdataanalytics/Data_Analytics_Portfolio/blob/master/Data%20Projects/World%20Alcohol%20Consumption/Sample%20Images/World_3.png" width="230" height="180" alt="sample_3" hspace="3">
 
